@@ -107,6 +107,7 @@ button:hover, button:focus,
   display: flex;
   width: 100%;
   padding: 20px;
+  object-fit: contain;
 }
 
 .page-header__item {
