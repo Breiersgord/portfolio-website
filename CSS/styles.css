@@ -118,6 +118,11 @@ button:hover, button:focus,
   text-align: right;
 }
 
+.page-header__logo {
+  width: auto;
+  height: auto;
+}
+
 .profile {
   max-width: 700px;
   margin: 0 auto;
