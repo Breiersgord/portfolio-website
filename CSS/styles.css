@@ -115,8 +115,12 @@ button:hover, button:focus,
 
 .page-header__item:last-child {
   flex-grow: 1;
-  flex-shrink: 1;
   text-align: right;
+}
+
+.page-header__logo {
+  width: auto;
+  height: auto;
 }
 
 .profile {
